@@ -21,7 +21,6 @@ Site para salvar seus perfis favoritos do GitHub. Aprendendo a solicitar dados d
 ### Fucionalidades do Projeto
 
 - [x] Salvar e excluir perfis
-- [ ] Responsividade
 
 ### Autor
 
